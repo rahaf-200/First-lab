@@ -1,0 +1,21 @@
+public class Main {
+    public static void main(String[] args) {
+        System.out.println("Hello world!");
+
+        int age=21;
+
+        String name="rahaf";
+        System.out.println(name+age);
+        System.out.println(name+" "+age);
+
+        int num1=2;
+        int num2=5;
+        int sum;
+        sum=num1+num2;
+        System.out.println(sum);
+        boolean x=num1>num2;
+        boolean y=num1==num2
+        System.out.println(x);
+        System.out.println(y);
+        System.out.println(num1>num2);
+        &&();
